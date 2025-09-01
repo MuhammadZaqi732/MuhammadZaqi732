@@ -10,7 +10,6 @@
 
 ## 📂 Portfolio
 - [Sanbercode-OrangeHRM](https://github.com/MuhammadZaqi732/Sanbercode-OrangeHRM.git) - Cypress automation for OrangeHRM (Login, Forgot Password, Dashboard, Menu Directory)
-- [qa-automation-portfolio](https://github.com/MuhammadZaqi732/MuhammadZaqi732.git) - Main automation project (README contains how-to-run)
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/muhammadzaqi  
