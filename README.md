@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Muhammad Zaqi 👋
 
-<!--
-**MuhammadZaqi732/MuhammadZaqi732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **QA Engineer | Manual & Automation Testing**  
+🔭 Fokus: Cypress (UI Automation), Test Case, Bug Reporting
 
-Here are some ideas to get you started:
+## 🔧 Tech & Tools
+- Cypress, JavaScript (ES6)
+- Postman / REST API testing
+- Git & GitHub, Page Object Model (POM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Portfolio
+- [Sanbercode-OrangeHRM](https://github.com/MuhammadZaqi732/Sanbercode-OrangeHRM.git) - Cypress automation for OrangeHRM (Login, Forgot Password, Dashboard, Menu Directory)
+- [qa-automation-portfolio](https://github.com/MuhammadZaqi732/MuhammadZaqi732.git) - Main automation project (README contains how-to-run)
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/muhammadzaqi  
+- Email: muhammadzaqi732@gmail.com
+
+**Open to work** — Available for Junior QA / Automation roles.
