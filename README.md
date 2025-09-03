@@ -9,7 +9,7 @@
 - Git & GitHub
 
 ## 📂 Project
-- [Sanbercode-OrangeHRM](https://github.com/MuhammadZaqi732/Sanbercode-OrangeHRM.git) - Cypress automation for OrangeHRM (Login, Forgot Password, Dashboard, Menu Directory)
+- [Sanbercode-OrangeHRM](https://github.com/MuhammadZaqi732/Sanbercode-OrangeHRM.git) - Cypress automation for OrangeHRM
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/muhammadzaqi  
