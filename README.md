@@ -4,9 +4,9 @@
 🔭 Fokus: Cypress (UI Automation), Test Case, Bug Reporting
 
 ## 🔧 Tech & Tools
-- Cypress, JavaScript (ES6)
+- Cypress, JavaScript
 - Postman / REST API testing
-- Git & GitHub, Page Object Model (POM)
+- Git & GitHub
 
 ## 📂 Project
 - [Sanbercode-OrangeHRM](https://github.com/MuhammadZaqi732/Sanbercode-OrangeHRM.git) - Cypress automation for OrangeHRM (Login, Forgot Password, Dashboard, Menu Directory)
